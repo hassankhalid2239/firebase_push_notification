@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187831544308",
+    "project_id": "fir-pushnotification-edebd",
+    "storage_bucket": "fir-pushnotification-edebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187831544308:android:6fa24d8ec32267138531a1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjX5HN4O67si9djSTqWt0mZoamiTR5vw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
